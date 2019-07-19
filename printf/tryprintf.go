@@ -1,4 +1,4 @@
-package tryprintf
+package printf
 
 func A() string {
 	return "\n"
