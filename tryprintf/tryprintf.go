@@ -9,9 +9,9 @@ func B() string {
 }
 
 func C() string {
-	""
+	return ""
 }
 
 func D() string {
-	" "
+	return " "
 }
